@@ -1,0 +1,19 @@
+{
+  "name": "@muritavo/microfrontend-cli",
+  "version": "0.0.1",
+  "description": "This Command Line Utility is used to bootstrap applications that matches the required interface for the microfrontend plugin. Currently only supports React applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "command",
+    "line",
+    "utility",
+    "CLI",
+    "microfrontend",
+    "frontend"
+  ],
+  "author": "Murilo Oliveira de Araujo",
+  "license": "UNLICENSED"
+}
