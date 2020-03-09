@@ -18,8 +18,8 @@ When the Consumer rendered the microfrontend the bootstrap from MaterialUI would
 
 ## Utilities
 
-### @muritavo/microfrontend-webpack-plugin
+### [@muritavo/microfrontend-webpack-plugin](/microfrontend-webpack-plugin/README.md)
 Responsible for adding the dependencies used for this implementation of microfrontend along with adding import maps for the provided microfrontends
 
-### @muritavo/microfrontend-cli
+### [@muritavo/microfrontend-cli](/microfrontend-cli)
 This **C**ommand **L**ine **U**tility is used to bootstrap a modular project that can be deployed as a microfrontend. It prepares and exposes the interface consumed by the webpack plugin and allows the project to be runnable independently from a consumer. Currently the project is bootstraped with React but as time goes, there can be PR so it can be bootstraped for other frameworks.
