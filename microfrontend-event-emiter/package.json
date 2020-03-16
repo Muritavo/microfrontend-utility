@@ -1,0 +1,16 @@
+{
+  "name": "@muritavo/microfrontend-event-emiter",
+  "version": "0.0.1",
+  "description": "A library to manage message passing between microfrontends",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "microfrontend",
+    "message",
+    "communication"
+  ],
+  "author": "Murilo Oliveira de Araujo",
+  "license": "UNLICENSED"
+}
